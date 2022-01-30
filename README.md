@@ -6,89 +6,52 @@ Use triangles to fit a face and recolor it in a abstract style. The core idea is
 
 Still in development and optimization.
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/0.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
-</center>
+![0](Pics/0.png)
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/2.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
+    origin, triangle-fit, recolored
 </center>
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/5.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
-</center>
+![0](Pics/2.png)
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/4.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
+    origin, triangle-fit, recolored
 </center>
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/3.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
-</center>
+![0](Pics/5.png)
 
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/1.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
+    origin, triangle-fit, recolored
 </center>
 
+![0](Pics/4.png)
+
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="Pics/6.png" width = "100%" alt=""/>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;">
-      origin, triangle-fit, recolored
-  	</div>
+    origin, triangle-fit, recolored
 </center>
+
+![0](Pics/3.png)
+
+<center>
+    origin, triangle-fit, recolored
+</center>
+
+![0](Pics/1.png)
+
+<center>
+    origin, triangle-fit, recolored
+</center>
+
+![0](Pics/6.png)
+
+<center>
+    origin, triangle-fit, recolored
+</center>
+
+
+
+
+
 ### Run
 
 ```
